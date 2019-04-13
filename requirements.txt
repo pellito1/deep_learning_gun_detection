@@ -1,0 +1,9 @@
+scipy
+numpy
+matplotlib
+setuptools
+tensorflow
+six
+Pillow
+protobuf
+opencv-python
